@@ -1,0 +1,3 @@
+/home/renshujia/AiStudy/deploy/ncnn_ubuntu/ncnn-20240102-ubuntu-2204-shared/example/yolov8seg/build/CMakeFiles/yolov8seg.dir
+/home/renshujia/AiStudy/deploy/ncnn_ubuntu/ncnn-20240102-ubuntu-2204-shared/example/yolov8seg/build/CMakeFiles/edit_cache.dir
+/home/renshujia/AiStudy/deploy/ncnn_ubuntu/ncnn-20240102-ubuntu-2204-shared/example/yolov8seg/build/CMakeFiles/rebuild_cache.dir
